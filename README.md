@@ -1,4 +1,4 @@
-# Real-Estate-Prediction---Machine-Learning
+# Real-Estate-Prediction-Machine-Learning
 
 
 Real estate price prediction is a critical aspect of the real estate market and broader economic landscape. It serves as a cornerstone for investors, developers, and homeowners alike, facilitating informed decision-making, strategic investment planning, and effective risk management.
